@@ -3,7 +3,7 @@ const Home = () => {
         <> 
         
             <h2>Student Record Management System</h2>
-            <img src="Images\Student-Record-Management-System.jpg" alt="Student Record Management" width={1000} height={450} />
+            <img src="Images\priscilla-du-preez-XkKCui44iM0-unsplash.jpg" alt="Student Record Management" width={1000} height={450} />
             <p>
                 Welcome to the Student Record Management System! This application is designed to help educational institutions 
                 efficiently manage student records, from admissions to graduation. Our system provides a user-friendly interface 
