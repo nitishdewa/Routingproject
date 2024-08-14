@@ -4,7 +4,7 @@ const Home = () => {
 
             <h2>Student Record Management System</h2>
             <p>
-                <img src="src\Images\priscilla-du-preez-XkKCui44iM0-unsplash.jpg" alt="student managment" />
+                <img src="src\Images\priscilla-du-preez-XkKCui44iM0-unsplash.jpg" alt="student managment" width={400} height={400} />
                 Welcome to the Student Record Management System! This application is designed to help educational institutions
                 efficiently manage student records, from admissions to graduation. Our system provides a user-friendly interface
                 that allows administrators to store, update, and retrieve student information with ease.
